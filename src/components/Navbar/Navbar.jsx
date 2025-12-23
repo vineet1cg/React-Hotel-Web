@@ -7,7 +7,7 @@ export default function Navbar() {
           <h1>HOTEL LOGO</h1>
         </div>
         <div className="search-bar">
-          <input type="text" class="city-input" placeholder="Search City" />
+          <input type="text" className="city-input" placeholder="Search City" />
           {/* <button class="search-btn">
             <span class="material-symbols-outlined"> search </span>
           </button> */}

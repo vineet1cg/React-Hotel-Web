@@ -1,5 +1,5 @@
 # 🏨 Hotel Booking Website (React)
-
+NOTE : THE PROJECT IS YET TO BE COMPLETED
 A modern **hotel booking website UI** built using **React.js**, based on Figma designs.  
 The project includes a landing page, hotel listing cards, and a hotel detail/booking page.
 
@@ -141,7 +141,6 @@ Payment gateway integration
 
 API-based hotel data
 
-Mobile-first optimization
 
 👨‍💻 Author
 Vineet

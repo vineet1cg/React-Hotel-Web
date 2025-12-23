@@ -1,0 +1,18 @@
+.catagory-text{
+    margin: 16px;
+    padding: 32px;
+    display: flex;
+    /* background-color: cadetblue; */
+    /* justify-content: space-evenly; */
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+.catagory-text button{
+    color: #000000;
+    background-color: #ffffff;
+    border: none;
+    padding: 8px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}

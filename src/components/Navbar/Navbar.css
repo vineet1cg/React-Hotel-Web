@@ -1,25 +1,46 @@
+.navbar{
+  /* background-color: cornflowerblue; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  margin: 16px;
+}
+
 .city-input {
-  /* width: 100%; */
+  width: 400px;
   padding: 10px 16px;
   border-radius: 99px;
   border: 3px solid transparent;
-  /* background: rgb(0, 0, 0, 0.15); */
+  background: #dfdfdf;
   outline: none;
   font-weight: 500;
   padding-right: 45px;
+  color: #242424;
+  font-weight: 800;
+  font-size: 1.5rem;
 }
 .city-input::placeholder {
-  color: rgb(255, 255, 255, 0.75);
+  color: #242424;
+  font-weight: 800;
+  font-size: 1.2rem;
 }
-.search-btn{
-    /* position: absolute;
-    right: 16px;
-    top: 50%;
-    transform: translateY(-50%); */
-    background: none;
-    /* display: flex; */
-    border: none;
-    cursor: pointer;
-    height: 100px;
-    width: 200px;
+.language-selector{
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+.cta button{
+  background-color: #000000;
+  padding: 8px 32px;
+  font-size: 1.3rem;
+  font-weight: 800;
+  border: none;
+}
+.cta:hover{
+  transition: ease-in 0.5s ;
+  transform: translateY(0px);
+}
+.logo{
+  font-size: 1.5rem;
+  cursor: pointer;
 }

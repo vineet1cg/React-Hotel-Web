@@ -1,5 +1,4 @@
 import "./Catagory.css"
-import Heroimg from '../../assets/hero-img.jpg'
 export default function Catagory(){
     return(
         <>

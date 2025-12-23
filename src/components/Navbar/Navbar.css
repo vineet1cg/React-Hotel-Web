@@ -26,15 +26,16 @@
   font-size: 1.2rem;
 }
 .language-selector{
-  font-size: 1.3rem;
+  font-size: 1.7rem;
   font-weight: 500;
 }
 .cta button{
   background-color: #000000;
   padding: 8px 32px;
-  font-size: 1.3rem;
+  font-size: 2.3rem;
   font-weight: 800;
   border: none;
+  cursor: pointer;
 }
 .cta:hover{
   transition: ease-in 0.5s ;

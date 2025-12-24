@@ -1,11 +1,10 @@
 .card {
-  margin: 32px;
+  margin: 16px;
   display: flex;
   flex-direction: column;
   background-color: #dfdfdf;
-  padding: 8px;
+  padding: 16px;
   border-radius: 12px;
-  width: 300px;
   height: 500px;
 }
 
